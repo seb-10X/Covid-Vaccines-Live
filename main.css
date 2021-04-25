@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	size: 45px;
+	background:white;
+	font-family:calibri;
+}
+
+header{
+	background: black;
+	font-family: calibri;
+	color: white;
+	margin: 0;
+	padding: 1px 15px 1px 15px;
+}
+
+h1{
+	
+	color:black;
+	size: 25px;
+	padding: 0 5px 0 5px;
+}
+
+h2{
+	padding: -25px 5px 0 5px;
+
+}
+header h4{
+	font-size: 16px;
+	color: white;
+	margin: 0;
+	display: inline;
+	padding: 5px 700px 0 30px;
+}
+nav ul{
+	margin: 0;
+	padding: 0 0 0 5px;
+	color: white;
+	display: inline;
+	
+}
+
+
+nav ul li{
+background: none;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding:10px 1px 10px 1px;
+}
+
+nav ul li a{
+	color: white;
+
+}
+div{
+	color: gray;
+}
+
+.row{
+
+ }
+ .col{
+ 	background: none;
+ 	font color: white;
+ 
+ }
+ 
